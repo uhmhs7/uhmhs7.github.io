@@ -3,9 +3,9 @@ title: "github.io first post"
 excerpt: "I'm going to start GitHub Blog service!"
 
 categories:
--Blog
+  - Blog
 tags:
--Blog
+  - Blog
 last_modified_at: 2020-12-28
 ---
 

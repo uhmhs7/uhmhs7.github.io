@@ -1,7 +1,7 @@
 ---
 title: "github.io first post"
 excerpt: "I'm going to start GitHub Blog service!"
-
+comments: true
 categories:
   - Blog
 tags:

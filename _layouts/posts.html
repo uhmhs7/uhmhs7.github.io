@@ -1,6 +1,5 @@
 ---
 layout: archive
-comments: true
 ---
 
 {{ content }}
@@ -29,8 +28,3 @@ comments: true
     <a href="#page-title" class="back-to-top">{{ site.data.ui-text[site.locale].back_to_top | default: 'Back to Top' }} &uarr;</a>
   </section>
 {% endfor %}
-  {% include disqus.html %}
-  {% if page.comments %}
-  <a href="https://uhmhs7.github.io{{page.url}}#disqus_thread">0 Comments</a>
-  {% endif %}
-  

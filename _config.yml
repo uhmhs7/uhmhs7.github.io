@@ -100,7 +100,7 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "uhmhs7@kaist.ac.kr"
+      # url: "uhmhs7@kaist.ac.kr"
     - label: "Youtube"
       icon: "fas fa-fw fa-link"
       url: "https://www.youtube.com/user/HenryUhm"
@@ -115,7 +115,7 @@ author:
       # url: "https://github.com/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+      url: "https://www.instagram.com/ferenz_klavier06/"
 
 # Site Footer
 footer:

@@ -100,10 +100,10 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "uhmhs7@kaist.ac.kr"
-    - label: "Website"
+      url: "uhmhs7@kaist.ac.kr"
+    - label: "Youtube"
       icon: "fas fa-fw fa-link"
-      # url: "https://www.youtube.com/channel/UCvJ4ze34KcLtTbsFmwfHAOg"
+      url: "https://www.youtube.com/user/HenryUhm"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
